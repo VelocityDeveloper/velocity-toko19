@@ -1,6 +1,6 @@
 Velocity Child Theme Paket Toko Online Toko 19
 =================
-[toko7.velocitydeveloper.com](https://www.toko19.velocitydeveloper.com/)
+[toko19.velocitydeveloper.com](https://www.toko19.velocitydeveloper.com/)
 
 Child Theme for the Velocity System WordPress theme.
 
